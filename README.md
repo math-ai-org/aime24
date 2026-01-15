@@ -11,7 +11,7 @@
 If you use the AIME24 dataset in your research, please consider citing it as follows:
 
 ```
-@misc{aime25,
+@misc{aime24,
       title={American Invitational Mathematics Examination (AIME) 2024}, 
       author={Zhang, Yifan and Math-AI, Team},
       year={2024},
